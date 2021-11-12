@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, I´m Andres Ayala and I study at IE.
+
 <!--
 **AAAYALA/AAAYALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
