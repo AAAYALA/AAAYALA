@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hello, I´m Andres Ayala, I study at IE and I am passionate about Finance and Machine Learning.
+Hello, I´m Andres Ayala and I study Big Data and Business Analytics at IE.
+
+I am passionate about **Finance** and **Machine Learning**.
 
 <!--
 **AAAYALA/AAAYALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
