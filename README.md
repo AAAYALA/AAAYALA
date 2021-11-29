@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello, I´m Andres Ayala and I study Big Data and Business Analytics at IE.
+### Hi I´m Andres Ayala and I study Big Data and Business Analytics at IE.
 
 I am passionate about **Finance** and **Machine Learning**.
 
