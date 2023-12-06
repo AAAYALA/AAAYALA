@@ -1,5 +1,9 @@
 ### (Operations + Finance)^Machine Learning = Andres Ayala
 
+- 🌱 MIT
+- 💬 IE Business School
+- 🔭 IESA
+
 <!--
 **AAAYALA/AAAYALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
