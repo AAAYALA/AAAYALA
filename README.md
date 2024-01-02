@@ -1,4 +1,4 @@
-### (Operations + Finance)^Machine Learning = Andres Ayala
+### Supply Chain Finance + Machine Learning
 
 - 🌱 MIT
 - 💬 IE Business School
